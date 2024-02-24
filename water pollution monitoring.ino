@@ -156,4 +156,14 @@ void loop() {
   lcd.print("cm");
   delay(2000);
 
+  //Display water level on lcd display
+  lcd.clear();
+  if (waterLevel == HIGH ){
+  lcd.setCursor(0, 0);
+  lcd.print("  Water level");
+  lcd.setCursor(0, 1);
+  lcd.print("  is too High");
+  }
+  delay(2000);
+
 }
