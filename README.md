@@ -16,7 +16,6 @@ Uses ultrasonic sensor to measure distance of objects
 
 # HARDWARE REQUIREMENTS:
 
-
 Arduino Uno or compatible board
 
 LiquidCrystal I2C library https://github.com/johnrickman/LiquidCrystal_I2C
@@ -38,7 +37,6 @@ Breadboard and jumper wires
 
 # SOFTWARE REQUIREMENTS:
 
-
 Arduino IDE (https://www.arduino.cc/)
 
 LiquidCrystal_I2C library (included in the code)
@@ -47,7 +45,6 @@ DHT library (https://learn.adafruit.com/dht/downloads)
 
 
 # INSTRUCTIONS:
-
 
 1. Download the code and libraries.
 
