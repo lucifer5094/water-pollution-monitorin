@@ -1,9 +1,9 @@
 
-ARDUINO WATER QUALITY MONITORING SYSTEM:
+# ARDUINO WATER QUALITY MONITORING SYSTEM:
 
 This project is an Arduino-based water quality monitoring system that measures various parameters including pH, TDS, turbidity, water level, temperature, and humidity. The system displays the data on an LCD screen and sends it to the serial monitor for further analysis.
 
-FEATURES:
+# FEATURES:
 
 Measures pH, TDS, turbidity, water level, temperature, and humidity
 
@@ -14,7 +14,7 @@ Sends data to the serial monitor for logging and analysis
 Uses ultrasonic sensor to measure distance of objects
 
 
-HARDWARE REQUIREMENTS:
+# HARDWARE REQUIREMENTS:
 
 
 Arduino Uno or compatible board
@@ -36,7 +36,7 @@ Ultrasonic sensor (HC-SR04)
 Breadboard and jumper wires
 
 
-SOFTWARE REQUIREMENTS:
+# SOFTWARE REQUIREMENTS:
 
 
 Arduino IDE (https://www.arduino.cc/)
@@ -46,7 +46,7 @@ LiquidCrystal_I2C library (included in the code)
 DHT library (https://learn.adafruit.com/dht/downloads)
 
 
-INSTRUCTIONS:
+# INSTRUCTIONS:
 
 
 1. Download the code and libraries.
